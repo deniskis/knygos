@@ -207,7 +207,7 @@
     </fieldset>
   </form>
 </div>
-<button id="create-book">Create new user</button>
+<button id="create-book">add book</button>
 <form id="del_rec" method="post" action="">
 	<input type="hidden" name="del" value="del1rec">
 	<input type="hidden" id="m_del" name="m_del" value="0">
